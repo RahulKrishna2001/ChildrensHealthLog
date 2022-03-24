@@ -1,6 +1,7 @@
 # childrenshealthlog
 
-A new Flutter project.
+A Login and SignUp page UI built in flutter.
+Also has Firebase Authentication.
 
 ## Getting Started
 
