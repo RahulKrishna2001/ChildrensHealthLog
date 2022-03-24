@@ -2,6 +2,7 @@
 
 A Login and SignUp page UI built in flutter.
 Also has Firebase Authentication.
+How your own Google Serivices Json file for Firebase Authentication.
 
 ## Getting Started
 
