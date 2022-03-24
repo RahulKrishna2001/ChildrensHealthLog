@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4303677055",
+    "project_id": "childrenshealthlog",
+    "storage_bucket": "childrenshealthlog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4303677055:android:4637c008a6c60b5228814a",
+        "android_client_info": {
+          "package_name": "com.example.childrenshealthlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4303677055-la0912longg8o54gl0amt38l8atghf35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.childrenshealthlog",
+            "certificate_hash": "d5242bec9c6f5fe1144d6b2691e4b67ff8aa6742"
+          }
+        },
+        {
+          "client_id": "4303677055-kuonh41moudtrppcfseng1b4denma3pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4TE-lPcipVGdfNy6d4a0XUGozMspgsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4303677055-kuonh41moudtrppcfseng1b4denma3pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
